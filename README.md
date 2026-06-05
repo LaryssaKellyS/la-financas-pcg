@@ -1,4 +1,5 @@
-# LA Finanças
+# LA Finanças - Projeto: Programe como uma garota
+
 
 Qual o problema que queremos resolver?
 
